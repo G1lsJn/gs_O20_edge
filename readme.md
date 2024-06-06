@@ -57,6 +57,8 @@ Este projeto desenvolve um protótipo de monitoramento da qualidade da água usa
 
 ### 📽️ Vídeo demostrativo: 
 
+### 🔗 Link: https://youtu.be/QzOC28FwZKg
+
 ## 📈 Envio dos dados para internet
 
 ### Estrutura do node-red
